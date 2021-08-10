@@ -4,15 +4,16 @@
     I am a Competitive Programmer and software developer enthusiast <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
  </i>
 </p>
+
 ### About Me
 - 🎓 I am currently a Junior undergraduate at <a href="http://www.mmmut.ac.in/"> MMMUT Gorakhpur </a>
 - 👨‍ I like to solve real life problems and interested in competitive programming on CodeChef and CodeForces
 - 💻 My area of interest lies in field of Data Structures, Algorithms and Web Development.
 
 ## 🏅 Achievements
--⭐ **Global rank 435 among 14,500+ participants** in _CodeForces Division 2 Round 726 _ (June 2021)
--⭐ **Global rank 42 among 2,500+ participants** in _CodeChef May Cook-off 2021 Division 2 _ (May 2021)
--⭐ **Global rank 2496 among 50,00+ participants** in _CodeNation CodeAgon 2020 _ (September 2020)
+- ⭐ **Global rank 435 among 14,500+ participants** in CodeForces Division 2 Round 726  (June 2021)
+- ⭐ **Global rank 42 among 2,500+ participants** in CodeChef May Cook-off 2021 Division 2  (May 2021)
+- ⭐ **Global rank 2496 among 50,00+ participants** in CodeNation CodeAgon 2020  (September 2020)
 
 ## 🛠️ Skills
 
