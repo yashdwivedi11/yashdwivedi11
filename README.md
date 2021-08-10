@@ -7,8 +7,9 @@
 
 ### About Me
 - 🎓 I am currently a Junior undergraduate at <a href="http://www.mmmut.ac.in/"> MMMUT Gorakhpur </a>
+- 💻 Currently I am working as a Technical Content Writer Intern at <a href="https://www.geeksforgeeks.org/"> GeeksForGeeks </a>
 - 👨‍ I like to solve real life problems and interested in competitive programming on CodeChef and CodeForces
-- 💻 My area of interest lies in field of Data Structures, Algorithms and Web Development.
+- 💻 My area of interest lies in field of Data Structures, Algorithms and Web Development
 
 ## 🏅 Achievements
 - ⭐ **Global rank 435 among 14,500+ participants** in CodeForces Division 2 Round 726  (June 2021)
