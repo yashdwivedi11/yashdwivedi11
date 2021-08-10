@@ -10,9 +10,9 @@
 - 💻 My area of interest lies in field of Data Structures, Algorithms and Web Development.
 
 ## 🏅 Achievements
-⭐ **Global rank 435 among 14,500+ participants** in _CodeForces Division 2 Round 726 _ (June 2021)
-⭐ **Global rank 42 among 2,500+ participants** in _CodeChef May Cook-off 2021 Division 2 _ (May 2021)
-⭐ **Global rank 2496 among 50,00+ participants** in _CodeNation CodeAgon 2020 _ (September 2020)
+-⭐ **Global rank 435 among 14,500+ participants** in _CodeForces Division 2 Round 726 _ (June 2021)
+-⭐ **Global rank 42 among 2,500+ participants** in _CodeChef May Cook-off 2021 Division 2 _ (May 2021)
+-⭐ **Global rank 2496 among 50,00+ participants** in _CodeNation CodeAgon 2020 _ (September 2020)
 
 ## 🛠️ Skills
 
@@ -32,7 +32,7 @@ Technologies:
 
 <code><img height="40" src="https://img.shields.io/badge/node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
 </div>
-  ### Top Languages: 
+ Top Languages: 
 <p align="center">
   <a href="https://github.com/karthikeysaxena2507">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdwivedi11&hide=html,css,Shell,Mustache,C,Dockerfile&theme=radical&layout=compact" align="center" />
