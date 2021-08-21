@@ -7,7 +7,7 @@
 
 ### About Me
 - 🎓 I am currently a Junior undergraduate at <a href="http://www.mmmut.ac.in/"> MMMUT Gorakhpur </a>
-- 💻 Currently I am working as a Technical Content Writer Intern at <a href="https://www.geeksforgeeks.org/"> GeeksForGeeks </a>
+- 💻 Currently I am working as an Associate Mentor Intern and Technical Content Writer Intern at <a href="https://www.geeksforgeeks.org/"> GeeksForGeeks </a>
 - 👨‍ I like to solve real life problems and interested in competitive programming on CodeChef and CodeForces
 - 💻 My area of interest lies in field of Data Structures, Algorithms and Web Development
 
